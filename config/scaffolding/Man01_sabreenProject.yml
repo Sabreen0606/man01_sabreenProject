@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Man01_sabreenProject
+  gitServerName: Sabreen0606
+  gitUrl: https://github.com/Sabreen0606
+  gitUsername: Sabreen0606
+  gitBranch: main
